@@ -16,4 +16,9 @@ public class Sav_acct {
         name = n;
         id = i;
     }
+    
+    public void interest(int amount){
+    	int amount += amount * (5/100);
+    	System.out.println("The amount with interest is " + amount);
+    }
 }

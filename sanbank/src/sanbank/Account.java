@@ -50,6 +50,10 @@ public class Account {
             case  "Savings Account"  :
             {
                     Sav_acct sav = new Sav_acct(Cust_name,acc_no);
+                    System.out.print("Creating your account ...... \nEnter the "
+                            + "amount you want :  ");
+                    int am = in.nextInt();
+                    sav.interest(am);
                     break;
             }
             default :
