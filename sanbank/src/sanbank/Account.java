@@ -63,6 +63,7 @@ public class Account {
                 break;
             }
         }
+        in.close();
 }
 }
 

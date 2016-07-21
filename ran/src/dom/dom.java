@@ -4,7 +4,6 @@
  */
 package dom;
 import java.util.Random;
-import ran.*;
 /**
  *
  * @author 14bit43

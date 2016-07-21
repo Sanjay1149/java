@@ -50,6 +50,6 @@ public class Ran {
         {
             d.display(arr,6);
         }
-        
+      in.close();
     }
 }

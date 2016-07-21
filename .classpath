@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Excercise3/src"/>
+	<classpathentry kind="src" path="excercise4/src"/>
+	<classpathentry kind="src" path="JavaApplication2/src"/>
+	<classpathentry kind="src" path="Javalab/src"/>
+	<classpathentry kind="src" path="ran/src"/>
+	<classpathentry kind="src" path="sanbank/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="ran/build/classes"/>
+</classpath>
